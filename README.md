@@ -4,7 +4,7 @@ Sublime Text 2 Syntax Definitition for Cisco router/switch/firewall configuratio
 
 ## Installing
 
-**Using Package Control:** If you have [package control](https://sublime.wbond.net/) installed then installing this is a snap. Simply open the command palette (Tools->Command Palette). Then type "install" then search for this plugin by typing "Cisco". That's it. It should be installed.
+**Using Package Control:** If you have [package control](https://sublime.wbond.net/) installed then installing this is a snap. Simply open the command palette (Tools->Command Palette). Then type "install" then search for this plugin by typing "Cisco Syntax Highlighter". That's it. It should be installed.
 
 **Without Git:** Download the zip from github, and extract the files to your Sublime Text "Packages" directory, into a new directory named `Cisco`. You can find the packages directy by going to Preferences -> Browse packages, within Sublime Text 2.
 
