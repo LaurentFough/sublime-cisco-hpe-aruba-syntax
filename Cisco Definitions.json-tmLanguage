@@ -62,7 +62,7 @@
 	],
 	"name": "HPE Aruba",
  	"scopeName": "text.hpe-aruba",
- 	"fileTypes": ["cfg","txt","pcc","config"],
+ 	"fileTypes": ["pcc","config"],
 	"patterns": [
 
 		{ "match": "^\\s*no ",
