@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
    <key>name</key>
-   <string>Comment</string>
+   <string>Comment-Cisco</string>
    <key>scope</key>
    <string>text.cisco</string>
    <key>settings</key>
@@ -15,6 +15,22 @@
             <string>TM_COMMENT_START</string>
             <key>value</key>
             <string>! </string>
+         </dict>
+      </array>
+   </dict>
+   <key>name</key>
+   <string>Comment-HPE-Aruba</string>
+   <key>scope</key>
+   <string>text.hpe-aruba</string>
+   <key>settings</key>
+   <dict>
+      <key>shellVariables</key>
+      <array>
+         <dict>
+            <key>name</key>
+            <string>TM_COMMENT_START</string>
+            <key>value</key>
+            <string>; </string>
          </dict>
       </array>
    </dict>
